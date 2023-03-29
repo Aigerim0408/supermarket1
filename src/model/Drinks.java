@@ -7,4 +7,5 @@ public class Drinks extends Fruit {
 
     public Drinks() {
     }
+
 }
