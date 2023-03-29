@@ -38,4 +38,5 @@ public class Fruit {
         this.qolich = qolich;
     }
 
+
 }
