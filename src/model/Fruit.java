@@ -1,9 +1,9 @@
 package model;
 
 public class Fruit {
-    private String name;
-    private int price;
-    private int qolich;
+    String name;
+    int price;
+    int qolich;
 
     public Fruit(String name, int price, int qolich) {
         this.name = name;
