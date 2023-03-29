@@ -12,7 +12,6 @@ public class FruitService extends Fruit {
     public FruitService(String name, int price, int qolich) {
         super(name, price, qolich);
     }
-
     public FruitService() {
     }
 
